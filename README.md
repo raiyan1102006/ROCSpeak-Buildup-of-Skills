@@ -8,7 +8,7 @@ The main manuscript can be found at: https://www.nature.com/articles/s41599-018-
 
 ## What's in this Repository
 
-The folders group1 to group6 contain the interaction and rating data of the six online communities. The interaction data files are formatted as follows. The file group_k_prompt_m.csv contains the interaction data from the k-th group (out of 6) in the m-th prompt (out of 5). In the file, IDs in the column 'source' gave 'weight' number of comments to the IDs in the column 'target'. The file group_k_rating_table.csv contains the ratings (from 1-5) of all the group members in the five prompts.
+The folders group1 to group6 contain the interaction and rating data of the six online communities. The interaction data files are formatted as follows. The file group_{k}\_prompt_{m}.csv contains the interaction data from the k-th group (out of 6) in the m-th prompt (out of 5). In the file, IDs in the column 'source' gave 'weight' number of comments to the IDs in the column 'target'. The file group_k_rating_table.csv contains the ratings (from 1-5) of all the group members in the five prompts.
 
 The simulation.m file simulates the skill diffusion process as described in the paper.
 
