@@ -1,5 +1,9 @@
 # Buildup of Speaking Skills in an Online Learning Community: A Network-Analytic Exploration
 
+Main publication: https://www.nature.com/articles/s41599-018-0116-6
+
+## Description:
+
 Please install the MATLAB package CVX from http://cvxr.com/cvx/.
 
 The simulation.m file simulates the skill diffusion process as described in the paper.
