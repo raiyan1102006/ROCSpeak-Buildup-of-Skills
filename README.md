@@ -1,6 +1,10 @@
 # Buildup of Speaking Skills in an Online Learning Community: A Network-Analytic Exploration
 
-This repository holds the dataset files and analysis codes for the publication of the same name as the title. The main manuscript can be found at: https://www.nature.com/articles/s41599-018-0116-6. The codes were developed by Rasoul Shafipour and Raiyan Abdul Baten.
+This repository holds the dataset files and analysis codes for the publication of the same name as the title:
+
+R. Shafipour*, R. A. Baten*, M. K. Hasan, G. Ghoshal, G. Mateos, and M. E. Hoque. Buildup of speaking-skills in an online learning community: A network-analytic exploration. Palgrave Communications, 4(1):1-10, 2018. (* equal contributions)
+
+The main manuscript can be found at: https://www.nature.com/articles/s41599-018-0116-6. The codes were developed by Rasoul Shafipour and Raiyan Abdul Baten.
 
 ## Abstract
 
@@ -21,5 +25,4 @@ Please install the MATLAB package CVX from http://cvxr.com/cvx/.
 
 The simulation.m and TV_prediction.m scripts can then be run from the MATLAB interface.
 
-## Algorithm and Implementation Details:
-R. Shafipour*, R. A. Baten*, M. K. Hasan, G. Ghoshal, G. Mateos, and M. E. Hoque. Buildup of speaking-skills in an online learning community: A network-analytic exploration. Palgrave Communications, 4(1):1-10, 2018. (*equal contributions)
+
